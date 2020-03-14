@@ -1,0 +1,9 @@
+<<<<<<< HEAD
+hello git
+hello git
+hello git
+hello git
+=======
+hello world [new content]
+hello world [new content]
+>>>>>>> hotfix
