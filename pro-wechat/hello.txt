@@ -1,7 +1,7 @@
 <<<<<<< HEAD
-hello git
-hello git
-hello git
+hello git HECavalier
+hello git HECavalier
+hello git HECavalier
 hello git HECavalier
 =======
 hello world [new content]
